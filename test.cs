@@ -8,5 +8,6 @@ namespace MarketMonitor.SharedData
 {
     public class Class1
     {
+        // this is branch3
     }
 }
